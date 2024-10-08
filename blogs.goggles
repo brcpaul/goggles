@@ -1,0 +1,5 @@
+! name: Blogs
+! description: ...
+! public: false
+! author: Me
+/2024/[0-9]{2}/{0-9}{1,2}$boost=1000
